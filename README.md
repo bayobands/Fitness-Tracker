@@ -1,4 +1,4 @@
-This Fitness Progress TrackerI made using Python is an application designed to help me track my weightlifting progress to help me reach my goals. It allows me to log and monitor their maximum weight lifted for various exercises over multiple workout days. I been following the Arnold split, consisting of different exercises for chest, back, shoulders, arms, and legs.
+This Fitness Tracker, is an application designed to help me track my weightlifting progress to help me reach my goals. It allows me to log and monitor their maximum weight lifted for various exercises over multiple workout days. I been following the Arnold split, consisting of different exercises for chest, back, shoulders, arms, and legs. Made using Python.
 
 Workout Days:
 
