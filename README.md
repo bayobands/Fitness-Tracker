@@ -1,5 +1,4 @@
-This Fitness Tracker, is an application designed to help me track my weightlifting progress to help me reach my goals. It allows me to log and monitor their maximum weight lifted for various exercises over multiple workout days. I been following the Arnold split, consisting of different exercises for chest, back, shoulders, arms, and legs. Made using Python.
-
+Have you ever forgetten how much weight you lifted last week or your workoutplan? Well now you don't have to worry about that because because my fitness tracker doesn’t just log your lifts—it turns every rep, every set, into data-driven proof of your progress. Imagine knowing exactly when you’ve hit a new personal best or seeing how today’s grind builds tomorrow’s greatness. Don’t just work out—train smarter, hit harder, and track your way to your goals."
 Workout Days:
 
     Day 1: Chest & Back
@@ -13,3 +12,6 @@ Technologies Used:
     Python 3.x: Programming language.
     Tkinter: Library for building the graphical user interface (GUI).
     JSON: Data format used for saving progress.
+
+
+![image](https://github.com/user-attachments/assets/3807543f-3082-433b-865c-ef2c3040ab80)
