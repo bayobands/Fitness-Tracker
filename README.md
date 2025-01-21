@@ -1,4 +1,4 @@
-#Fitness Tracker
+## Fitness Tracker
 
 Have you ever forgetten how much weight you lifted last week or your workoutplan? Well now you don't have to worry about that because because my fitness tracker doesn’t just log your lifts—it turns every rep, every set, into data-driven proof of your progress. Imagine knowing exactly when you’ve hit a new personal best or seeing how today’s grind builds tomorrow’s greatness. Don’t just work out—train smarter, hit harder, and track your way to your goals."
 Workout Days:
