@@ -1,4 +1,4 @@
-### Fitness Tracker
+# Fitness Tracker
 
 Have you ever forgetten how much weight you lifted last week or your workoutplan? Well now you don't have to worry about that because because my fitness tracker doesn’t just log your lifts—it turns every rep, every set, into data-driven proof of your progress. Imagine knowing exactly when you’ve hit a new personal best or seeing how today’s grind builds tomorrow’s greatness. Don’t just work out—train smarter, hit harder, and track your way to your goals."
 
@@ -20,4 +20,24 @@ Technologies Used:
 
 ## Setup
 
-1. Install the P
+1. Download the fitness_tracker_gui.py File
+
+    Clone or download the file from this repository and save it to a location on your computer.
+
+2. Install Python
+
+    Go to the official Python website and download the latest version of Python.
+    During installation, make sure to check the box that says "Add Python to PATH" before proceeding. This is essential for running Python from the Command Prompt.
+
+3. Navigate to the File Location
+
+    Open the Command Prompt on Windows.
+    Use the cd command to navigate to the folder where the fitness_tracker_gui.py file is saved. For example:
+
+    cd "C:\Users\<YourUsername>\Desktop\FitnessTracker"
+
+4. Run the Python File
+
+    Once you're in the correct directory, run the following command to start the application:
+
+python fitness_tracker_gui.py
