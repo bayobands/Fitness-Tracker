@@ -14,5 +14,3 @@ A simple desktop fitness tracker that lets you log workouts, track lifted weight
 1. Clone or download this repository  
 2. Make sure **Python 3** is installed  
 3. Run the app
-
-I need a read me like this but for grid walk
