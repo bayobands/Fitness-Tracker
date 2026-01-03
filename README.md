@@ -2,8 +2,6 @@
 
 A location-based crafting game where real-world movement drives gameplay. Players explore a grid-based world, collect digital tokens, and merge them to craft higher-value items using geolocation or on-screen controls.
 
-![Gridwalk gameplay showing map-based grid and token collection](https://github.com/user-attachments/assets/YOUR_IMAGE_HERE)
-
 ## How It Works
 
 - The world is divided into a grid mapped to real-world coordinates  
